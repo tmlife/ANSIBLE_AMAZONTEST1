@@ -1,0 +1,8 @@
+---
+
+roles:
+- { role: common, tags: "common" }
+- { role: nginx, tags: "nginx" }
+- { role: appserver, tags: appserver }
+- { role: database, tags: database }
+- { role: webserver, tags: webserver }
